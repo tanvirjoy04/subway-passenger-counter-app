@@ -7,15 +7,9 @@ This is the primary version of my "Passenger Counter App" built on
 
 No Framework used.
 
-## Screenshot
-
-![Alt text](./screenshot.jpeg)
-
 ## Structure
 
 ├── README.md
-
-├── screenshot.jpeg
 
 ├── index.css
 
@@ -25,4 +19,4 @@ No Framework used.
 
 └── moscow-subway.jpg
 
-1 directory, 6 files
+1 directory, 5 files
