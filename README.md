@@ -9,7 +9,7 @@ No Framework used.
 
 ## Screenshot
 
-![Alt text](Screenshot.png)
+![Alt text](./Screenshot.png)
 
 ## Structure
 
