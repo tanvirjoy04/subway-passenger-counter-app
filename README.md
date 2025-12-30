@@ -9,13 +9,13 @@ No Framework used.
 
 ## Screenshot
 
-![Alt text](./Screenshot.png)
+![Alt text](./screenshot.jpeg)
 
 ## Structure
 
 ├── README.md
 
-├── Screenshot.png
+├── screenshot.jpeg
 
 ├── index.css
 
